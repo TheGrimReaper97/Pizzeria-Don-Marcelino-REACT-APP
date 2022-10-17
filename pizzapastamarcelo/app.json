@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "pizzapastamarcelo",
+    "slug": "pizzapastamarcelo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "pizzapastamarcelo"
+}
